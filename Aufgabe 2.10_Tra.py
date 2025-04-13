@@ -1,4 +1,3 @@
-
 #a)
 import math
 pi=math.pi
