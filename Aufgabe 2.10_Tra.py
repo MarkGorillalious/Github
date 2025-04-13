@@ -1,6 +1,3 @@
-##hallo 
-##tschuss
-
 
 #a)
 import math
